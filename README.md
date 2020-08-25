@@ -2,7 +2,17 @@
 
 This repo gives an example of how the [OpenSAFELY cohort extractor](https://github.com/opensafely/cohort-extractor/) works.
 
-# About the OpenSAFELY framework
+It contains [a very simple study definition](https://github.com/opensafely/cohort-extractor-demo/blob/master/analysis/study_definition.py).
+
+## Things to read:
+
+* [An introduction to OpenSAFELY platform](https://github.com/opensafely/documentation/blob/master/Introducing%20OpenSAFELY.md)
+* [Walkthrough instructions for using the platform for epidemiological research](https://github.com/opensafely/documentation/blob/master/Onboarding%20analysts.md)
+* [Instructions for writing a study definition](https://github.com/opensafely/documentation/blob/master/study_definition.md)
+* [Cohort extractor source code](https://github.com/opensafely/cohort-extractor/)
+* [A more comprehensive study definition](https://github.com/opensafely/flu-vacc-research/blob/master/analysis/study_definition_flu_vaccine.py)
+
+## About the OpenSAFELY framework
 
 The OpenSAFELY framework is a new secure analytics platform for
 electronic health records research in the NHS.
